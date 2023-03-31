@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000013.jpg</filename>
+	<path>C:\Users\ThuPH5\Downloads\keras-yolo3-master\VOC2007\JPEGImages\000013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>38</ymin>
+			<xmax>296</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

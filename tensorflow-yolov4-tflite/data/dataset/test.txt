@@ -1,0 +1,5 @@
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000026.jpg 266,50,331,126,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000027.jpg 16,20,81,91,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000028.jpg 67,70,126,148,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000029.jpg 16,66,126,163,0 188,117,274,189,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000030.jpg 160,34,268,125,0 15,102,102,177,0

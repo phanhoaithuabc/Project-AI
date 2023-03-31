@@ -1,0 +1,26 @@
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000001.jpg 215,93,255,129,0 299,155,318,176,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000002.jpg 143,19,184,56,0 80,77,97,98,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000003.jpg 73,90,115,126,0 22,163,40,184,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000004.jpg 180,95,196,113,0 260,163,283,186,0 8,1,85,51,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000005.jpg 242,14,326,96,0 119,119,137,135,0 22,170,44,194,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000006.jpg 47,4,129,96,0 229,127,246,146,0 315,189,336,211,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000007.jpg 1,179,132,313,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000008.jpg 1,137,103,265,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000009.jpg 1,104,87,213,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000010.jpg 291,81,334,117,0 204,103,247,137,0 128,162,191,207,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000011.jpg 21,35,62,70,0 106,58,149,95,0 160,116,223,162,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000012.jpg 8,72,49,108,0 96,92,137,127,0 153,146,217,191,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000013.jpg 225,38,296,102,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000014.jpg 226,36,301,99,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000015.jpg 119,1,190,19,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000016.jpg 110,127,138,151,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000017.jpg 240,82,269,106,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000018.jpg 254,118,282,143,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000019.jpg 61,46,82,65,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000020.jpg 287,58,306,79,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000021.jpg 267,2,287,22,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000022.jpg 180,98,267,179,0 12,31,123,123,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000023.jpg 259,75,298,110,0 182,178,207,206,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000024.jpg 166,177,195,208,0 208,53,252,85,0
+C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite/VOCdevkit/VOC2007/JPEGImages/000025.jpg 265,84,307,122,0 183,178,206,208,0
+

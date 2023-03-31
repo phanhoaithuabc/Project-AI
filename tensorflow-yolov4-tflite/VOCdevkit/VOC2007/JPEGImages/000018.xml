@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000018.jpg</filename>
+	<path>C:\Users\ThuPH5\Downloads\tensorflow-yolov4-tflite\VOCdevkit\VOC2007\JPEGImages\000018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>118</ymin>
+			<xmax>282</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>
